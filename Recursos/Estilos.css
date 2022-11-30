@@ -1,0 +1,15 @@
+body{
+    background-color: #A5FFE1;
+    font-family: sans-serif;
+    padding: 5em;
+}
+.FondoGris{
+  background-color: #C3C7C5;
+
+}
+
+.Contenido{
+  background-color: #C3C7C5;
+  width: 1061px;
+  margin-top: 15px;
+}
